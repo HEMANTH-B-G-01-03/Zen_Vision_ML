@@ -28,32 +28,3 @@ Make sure you have Python installed. Then, open a terminal in the project direct
 ```bash
 pip install -r requirements.txt
 
-
-
-
-
-
-
-#📦 Step 2: Run the Code
-Execute the following scripts in order to make the system work correctly:
-
-Data Collection
-
-python collection.py
-
-##Model Training
-
-python train.py
-
-
-Inference (Pose Detection and Feedback)
-python inference.py
-
-
-##📌 Notes
-Ensure your webcam is functional for real-time pose recognition.
-
-You can customize poses and training data by editing the collection and training scripts accordingly.
-
-Feel free to contribute or raise issues. Happy stretching with AI! 🧘‍♂️✨
-
