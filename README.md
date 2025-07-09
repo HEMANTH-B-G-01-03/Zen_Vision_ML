@@ -28,3 +28,25 @@ Make sure you have Python installed. Then, open a terminal in the project direct
 ```bash
 pip install -r requirements.txt
 
+###📦 Step 2: Run the Code
+
+Execute the following scripts in order to make the system work correctly:
+
+Data Collection
+
+```bash
+python collection.py
+
+Model Training
+
+```bash
+
+python train.py
+
+Inference (Pose Detection and Feedback)
+
+```bash
+
+python inference.py
+
+
