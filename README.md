@@ -32,20 +32,18 @@ pip install -r requirements.txt
 
 Execute the following scripts in order to make the system work correctly:
 
-Data Collection
+To collect the data  Data run
 
-```bash
+
 python collection.py
 
-Model Training
+To train the Model Runn
 
-```bash
 
 python train.py
 
-Inference (Pose Detection and Feedback)
+To check the result or perform the yoga after running the bellow program named file
 
-```bash
 
 python inference.py
 
